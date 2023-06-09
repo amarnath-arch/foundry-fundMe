@@ -1,0 +1,5 @@
+FundMeTest:testFundFailsWithoutEnoughEth() (gas: 29502)
+FundMeTest:testFundUpdatesFundedDataStructure() (gas: 64621)
+FundMeTest:testgetPriceFeed() (gas: 64285)
+FundMeTest:testvalueis1dollar() (gas: 9291)
+StakeContractTest:testExample(uint8) (runs: 256, μ: 66437, ~: 71097)
